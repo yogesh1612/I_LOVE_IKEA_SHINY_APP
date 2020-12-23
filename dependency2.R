@@ -3,3 +3,4 @@ if (!require(miniUI)) {install.packages("miniUI")};  suppressWarnings(library(mi
 if (!require(jpeg)) {install.packages("jpeg")};  suppressWarnings(library(jpeg))
 if (!require(DT)) {install.packages("DT")};  suppressWarnings(library(DT))
 if (!require(text2vec)) {install.packages("text2vec")};  suppressWarnings(library(text2vec))
+if (!require(dplyr)) {install.packages("dplyr")};  suppressWarnings(library(dplyr))
