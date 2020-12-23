@@ -1,0 +1,12 @@
+name: I_LOVE_IKEA_SHINY_APP
+title: I_LOVE_IKEA_SHINY_APP
+username:
+account: sudhir-voleti
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3424342
+bundleId: 4022115
+url: https://sudhir-voleti.shinyapps.io/I_LOVE_IKEA_SHINY_APP/
+when: 1608722614.52329
+asMultiple: FALSE
+asStatic: FALSE
