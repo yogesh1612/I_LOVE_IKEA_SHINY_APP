@@ -4,8 +4,14 @@
 ## This will look just better on mobile devices
 ##
 
+# # 
+# reticulate::virtualenv_create(envname = 'r-reticulate', python = 'python37')
+# virtualenv_install('r-reticulate', c('h5py'), ignore_installed = FALSE)
+# reticulate::use_virtualenv(virtualenv = 'r-reticulate', required = TRUE)
+
 
 #### Libraries needed #########################################################
+
 library(shiny)
 library(miniUI)
 library(jpeg)
